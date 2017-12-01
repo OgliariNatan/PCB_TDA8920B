@@ -1,0 +1,16 @@
+#ignore everything
+*
+#but not these files
+!.gitignore
+!README.md
+!LICENSE
+
+
+!*.pdf
+!*.asc
+
+
+
+!*.PrjPCB
+!*.SchDoc
+!*.PcbDoc
