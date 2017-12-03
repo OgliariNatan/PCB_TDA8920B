@@ -8,8 +8,10 @@
 
 !*.pdf
 !*.asc
+!*.lib
 
-
+!*.png
+!*.jpg
 
 !*.PrjPCB
 !*.SchDoc
